@@ -1,4 +1,4 @@
-# Cloned Droplets
+# Water Droplets Impact Modelling
 
 This repository is a combination of the work undertaken by students under Associate Professor Lennon Ó'Náirigh at UCD. Generally, this work has centered around modelling water droplet impacts using computational fluid dynamics (CFD). This has primarily been done with the open source CFD library OpenFOAM.  
 
